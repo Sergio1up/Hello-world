@@ -1,2 +1,4 @@
 # Hello-world
-Primeiro repositório, by hello world github guide
+
+Hi humans ! 
+Hubbot here, I like Nodes.js and...
